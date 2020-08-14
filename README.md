@@ -9,6 +9,8 @@ NotoSansCJK & NotoSerifCJK full weight patch for Android devices.
 
 Fonts are provided by [Google](https://github.com/googlei18n/noto-cjk).
 
+And [BlobEmoji](https://github.com/C1710/blobmoji).
+
 ## Maintenance
 Currently, this module is still maintained. It was used to be stored at official repo but got removed in repo cleanup. Now you can download it directly in this repo's [release tabs](https://github.com/simonsmh/notocjk/releases).
 
